@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #EEE;
+}
+.container{
+    max-width:1000px;
+    background-color: aqua;
+    margin: 0 auto;
+    padding: 20px;
+}
+hr{
+    margin-top: 5px;
+}
+.picture{
+      height: 100px;
+      width: 100px;
+      border: 3px solid white;
+      border-radius: 50%;
+      float: left;
+}
+.text{
+    color:#11999e;
+    float: left;
+    padding: 20px;
+}
+.contract{
+    float: right;
+    padding: 30px;
+}
+.contract a{
+    text-decoration: none;
+    color:green;
+}
+.contract a:hover{
+    text-decoration: underline;
+    color: red;
+}
+.clear{
+    clear: both;
+}
+hr{
+    border: 2px black solid;
+    border-bottom: none;
+    border-width: 100%;
+}
+.ldiv{
+    float: left;
+    width: 20%;
+    color: #11999e;
+}
+ h4{
+   float: left;
+ width: 80%;
+}
+.lacademic{
+    width: 20%;
+    float: left;
+    color: #11999e;
+}
+.tab{
+    float: left;
+    width: 80%;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.work{
+    width: 20%;
+    float: left;
+    color: #11999e;
+}
+.wex{
+    width: 80%;
+    float: left;
+    color: #11999e;
+}
+.key{
+    width: 20%;
+    float: left;
+    color: #11999e;
+}
+.skill{
+    width: 80%;
+    float: left;
+    color: #11999e;
+}
+.ft{
+    text-align:center;
+    background-color: black;
+    margin: 20px;
+}
+.ft a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.ft a:hover{
+    text-decoration: underline;
+}
+.ft p{
+    color: white;
+    margin: 20px;
+}
+.lan{
+   color: #11999e;
+   width: 20%;
+   float: left;
+}
+.skilllan{
+    color: #11999e;
+    width: 80%;
+    float: left;
+}
